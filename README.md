@@ -1,4 +1,4 @@
-# Hi there, I'm Anas 👋
+<h1 align="center">Hi there, I'm Anas 👋</h1>
 
 🎓 I'm currently a student majoring in **Electronics and Communications Engineering**.  
 💻 I'm actively seeking a **remote developer job** that fits alongside my studies.  
@@ -43,7 +43,7 @@ I'm not currently working on any active projects, but I'm **very excited** to be
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/an17sa)
 
 <!-- Add more icons here later:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](...)
@@ -54,11 +54,11 @@ I'm not currently working on any active projects, but I'm **very excited** to be
 
 ## 📊 GitHub Stats
 
-![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=17adx&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17adx&layout=compact&theme=tokyonight)
 
 <!-- Optional: Visitors Badge -->
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=17adx&color=blue&style=flat-square)
 
 ---
