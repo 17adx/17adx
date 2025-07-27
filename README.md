@@ -78,8 +78,13 @@ I'm not currently working on any active projects, but I'm **very excited** to be
 <!--
 ## Check My Projects-->
 
-
 ---
+## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=17adx&show_icons=true&theme=tokyonight" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17adx&layout=compact&theme=tokyonight" />
+
+<!-- Optional: Visitors Badge -->
+![Visitors](https://komarev.com/ghpvc/?username=17adx&color=blue&style=flat-square)
 
 
 <p align="end">❤️ Thanks for you time :)</p>
