@@ -8,7 +8,7 @@
   <a href="mailto:anassalem810@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/an17sa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/17adx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://dribbble.com/" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://dribbble.com/17adx" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#" target="-blank"><img src="https://img.shields.io/badge/My%20Portfolio-%237851A9?style=for-the-badge&logo=vercel" alt="Portfolio"></a>
 </p>
 
